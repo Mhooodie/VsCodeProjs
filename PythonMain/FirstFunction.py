@@ -1,6 +1,7 @@
 print('running script')
+#FUNCTION
 
-def create_email(email_address, name): # (Parameters)
+def create_email(email_address, name): # (Parameters) 
     email_text = f"Hey {name}, I noticed you like to code" # Scoped to def of function / Only accessible in function
     # print ("text", email_text)
     # print ("address", email_address)
