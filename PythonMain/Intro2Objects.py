@@ -6,7 +6,6 @@ print('running script')
 
 #Object
 class Car: # Object is an instance of a class
-    #Function
     def __init__(self, speed, steering, throttle):
         self.speed = speed
         self.sterring = steering
