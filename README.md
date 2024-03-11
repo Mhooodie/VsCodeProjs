@@ -1,0 +1,1 @@
+This Repo includes: JavaMain - For my small personal learning projects within Java, PythonMain - for my small personal learning projects in python, Playground - Kept within file for an empty testing space, and SCC_CPT-135 - My computer science class based in python
